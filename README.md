@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Piumal Fernando</h1>
 <h3 align="center">Intern software Engineer</h3>
 
+<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/85375863/235308016-c3fb0747-2bbf-4027-8400-823ad53e88c8.png)"
+ >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
