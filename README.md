@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ---
-name: 'piumalfer'
-cover: '/templates/img/Scar1109.webp'
-md: '/markdown/Scar1109.md'
----
-
 
 <p align="center"><picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture></p>
 <h1 align="center">Hi 👋, I'm Piumal Fernando</h1>
